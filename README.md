@@ -13,3 +13,5 @@ Periodically swaps all players' balls during a match of Super Battle Golf.
 | MaxInterval | 40 | 10–180 | Maximum seconds between swaps |
 | ShowCountdown | true | true/false | Show on-screen countdown and chat warnings before the swap |
 | CountdownDuration | FiveSeconds | FiveSeconds, TenSeconds | How many seconds before the swap to show the warning |
+
+If there is any issues with the mod itself please open a Issue on GitHub

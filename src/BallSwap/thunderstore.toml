@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "exiira"
 name = "BallSwap"
 description = "Periodically swaps all players' balls during a match. Interval is configurable and can be fixed or random."
-websiteUrl = ""
+websiteUrl = "https://github.com/Dualyy/ballswap"
 containsNsfwContent = false
 
 [package.dependencies]
