@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <!-- Set if the default steam game install directory doesn't work. -->
+    <!-- <SuperBattleGolfGameRootDir></SuperBattleGolfGameRootDir> -->
+
+    <!-- Set if your BepInEx/ directory isn't in the game files. -->
+    <!-- <SuperBattleGolfBepInExDir></SuperBattleGolfBepInExDir> -->
+
+    <!-- Enable/disable deploying mod files to BepInEx directory. -->
+    <DeployModFilesEnabled>true</DeployModFilesEnabled>
+  </PropertyGroup>
+</Project>
